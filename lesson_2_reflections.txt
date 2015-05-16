@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A bunch of files gets created. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's an abstrct concept. It allows for more fine tuning of the git process.
