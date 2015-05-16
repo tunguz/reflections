@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+This was my first exposure to diff, and I was very intrigued by its capabuilities. I think that
+this course will give me a very gentle and reasonable introduction to version control, and diff was 
+definitely a very useful first tool to try in this regard.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would make it easier for me to go back and take a look at previous version of the program that I am writing. 
+It could also mmae me more willing to try out different things without having to worry about getting everything right the
+first time around. 
